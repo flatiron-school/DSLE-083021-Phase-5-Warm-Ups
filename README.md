@@ -27,7 +27,7 @@ git push
 
 1. Go to your fork, and click the Fetch Upstream button
 
-![images/fork-fetch-upstream.png]
+![screenshot to show where the fetch upsteam button appears on a forked repo](images/fork-fetch-upstream.png)
 
 2. Pull down from your remote
 
